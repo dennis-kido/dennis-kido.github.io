@@ -1,6 +1,6 @@
 #Company's site
 ## We will post Company highlights here.
-We're excited to announce the opening of our new business, Dennis-Kido org. It's located on [address of your business and other location details.] The business will be open and ready to greet guests on [date your business opens.]
+We're excited to announce the opening of our new business, Dennis-Kido org. It's located in the Kindom far far away under the rule of Lord Farquaad. The business will be open and ready to greet guests on [date your business opens.]
 
 Our business offers [brief overview of the value your business will provide to customers.] We're proud to offer the following products to clients:
 
