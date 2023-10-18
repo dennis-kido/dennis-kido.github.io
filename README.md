@@ -1,2 +1,3 @@
-# dennis-kido.github.io
-Company's site
+#Company's site
+
+## We will post Company highlights here.
