@@ -14,6 +14,7 @@ jobs:
       - name: Run shell cmd
         run: |
           echo "Hello world"
+          sudo yum install npm
           npm -v
           
      
