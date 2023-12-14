@@ -1,0 +1,19 @@
+name: pages-Workflow
+on: 
+  push:
+      branches:
+         - main
+  pull_request:
+      branches:
+        - main
+
+jobs:
+  build:
+   runs-on: selfhosted
+   steps:
+      - name: Run shell cmd
+        run: |
+          echo "Hello world"
+          npm --version
+     
+    
