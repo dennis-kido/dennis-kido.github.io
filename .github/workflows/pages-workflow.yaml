@@ -9,11 +9,12 @@ on:
 
 jobs:
   build:
-   runs-on: selfhosted
+   runs-on: self-hosted
    steps:
       - name: Run shell cmd
         run: |
           echo "Hello world"
           npm --version
+          echo $GITHUB_REF
      
     
