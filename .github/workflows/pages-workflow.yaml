@@ -15,6 +15,6 @@ jobs:
         run: |
           echo "Hello world"
           npm -v
-          echo $GITHUB_REF
+          
      
     
